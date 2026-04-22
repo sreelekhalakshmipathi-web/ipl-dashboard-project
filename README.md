@@ -14,6 +14,14 @@ This project analyzes IPL (Indian Premier League) data using Python and visualiz
 - Matplotlib
 - Seaborn
 
+  ## Dashboard Preview
+  ![Dashboard](dashboard.png)
+  ##Top Batters Analysis
+  1[Top Batters](top-batters-analysis.png)
+  ## Top Teams
+  ![Top Teams](top-teams.png)
+  
+
 ## 📌 Key Insights
 - Mumbai Indians have the highest number of wins
 - Teams often prefer chasing after winning the toss
