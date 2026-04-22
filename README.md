@@ -31,4 +31,4 @@ This project analyzes IPL (Indian Premier League) data using Python and visualiz
 1. Download the notebook
 2. Run in Jupyter Notebook / Kaggle
 
-   This project demonsrates data cleaning,analysis,and visualization skills using real-world IpL data
+This project demonsrates data cleaning,analysis,and visualization skills using real-world IpL data
